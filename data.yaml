@@ -1,0 +1,8 @@
+path: C:/Users/hussa/Downloads/beetroot detection YOLO
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: beetroot
